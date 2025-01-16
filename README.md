@@ -5,7 +5,10 @@ Bu proje, **Windows Forms** kullanılarak geliştirilmiş bir **Finansal CRM** u
 ---
 
 ## 🚀 Özellikler
-
+## Login Sayfası
+Uygulama, **kullanıcı adı** ve **şifre** ile giriş yapılmasını gerektirir. Başarılı giriş sonrası, kullanıcı **ana menüye** yönlendirilir.  
+Eğer giriş başarısız olursa, kullanıcıya bir hata mesajı gösterilir.
+![Login](https://github.com/user-attachments/assets/f60a8922-6a1c-4ab6-a0e0-bd26571256e5)
 - **Kategoriler**:
   - Gider ve fatura kategorilerini yönetme.
   - CRUD (Ekle, Listele, Güncelle, Sil) işlemleri.
