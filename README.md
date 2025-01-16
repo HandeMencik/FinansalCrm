@@ -36,6 +36,7 @@ Bu proje, **Windows Forms** kullanılarak geliştirilmiş bir **Finansal CRM** u
 
 - **Çıkış**:
   - Uygulamadan kolayca çıkış yapma.
+    
 ![image](https://github.com/user-attachments/assets/770df6a5-6741-4649-b955-0b1b816dae55)
 
 ---
